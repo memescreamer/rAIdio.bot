@@ -1,8 +1,9 @@
 # rAIdio.bot
 
-**AI music production studio for Windows.**  
-Generate music, clone voices, extract stems, build playlists, 
-and run your own personal radio station — all locally, all on your hardware.
+**rAIdio.bot is a complete AI music and voice production studio that runs 
+entirely on your own hardware. Text to music, voice cloning, mixing, and 
+mastering, all local, all yours, with no API bills, no subscriptions, and 
+no data leaving your machine.**
 
 ---
 
