@@ -4,7 +4,7 @@ about: Something is not working correctly
 title: ''
 labels: bug
 assignees: neitzert
-type: Bug
+type: Bug, user-reported
 
 ---
 
